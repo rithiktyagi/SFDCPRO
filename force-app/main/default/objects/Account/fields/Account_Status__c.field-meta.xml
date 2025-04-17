@@ -11,7 +11,7 @@
             <sorted>false</sorted>
             <value>
                 <fullName>Unapproved</fullName>
-                <default>false</default>
+                <default>true</default>
                 <label>Unapproved</label>
             </value>
             <value>
